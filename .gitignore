@@ -1,0 +1,12 @@
+*.db
+*.pdb
+*.dll
+*.uasset
+Intermediate/
+*.log
+*.dmp
+Saved/Logs/
+Saved/Backup/
+Saved/
+Content/StarterContent/
+Content/TopDownCPP/Maps/TopDownExampleMap.umap
